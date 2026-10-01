@@ -108,7 +108,7 @@ The workflow included:
 
 ### Interactive Healthcare Dashboard
 
-![Healthcare Resource Allocation Dashboard](visualizations/healthcare-resource-allocation-dashboard.png)
+![Healthcare Resource Allocation Dashboard](visualizations/healthcare-resource-dashboard.png)
 
 ---
 
