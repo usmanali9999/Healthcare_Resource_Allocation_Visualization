@@ -4,7 +4,7 @@
 
 **Intern:** Usman Ali  
 **Supervisor:** Dr. Zeeshan Usmani  
-**Task:** Task 1 — Healthcare Resource Allocation Visualization
+**Task:**  — Healthcare Resource Allocation Visualization
 
 ---
 
@@ -86,31 +86,29 @@ The workflow included:
 
 ## Visualizations
 
-The project contains the following visualizations:
-
 ### Geographic Patient Demand
 
-A geographic view showing patient demand across ZIP-code areas and hospital locations.
+![Geographic Patient Demand](visualizations/geographic-patient-demand-map.png)
 
 ### Hospital Resource Allocation
 
-Comparison of hospital resources including beds and staff.
+![Hospital Resource Allocation](visualizations/hospital-resource-allocation.png)
 
 ### Patient Demographics
 
-Analysis of patient demographic distributions across hospitals.
+![Patient Demographics](visualizations/patient-demographics.png)
 
 ### Patient Density by ZIP Code
 
-Comparison of patient demand across geographic areas.
+![Patient Density by ZIP Code](visualizations/patient-density-by-zip-code.png)
 
 ### Treatment Efficacy by Diagnosis
 
-Comparison of treatment success rates across diagnosis categories.
+![Treatment Efficacy by Diagnosis](visualizations/treatment-efficacy-by-diagnosis.png)
 
 ### Interactive Healthcare Dashboard
 
-A Plotly Dash dashboard combines the major analytical views and provides interactive filtering.
+![Healthcare Resource Allocation Dashboard](visualizations/healthcare-resource-allocation-dashboard.png)
 
 ---
 
