@@ -1,0 +1,51 @@
+Hospital ID,Department,Beds,Staff
+HOSP-01,Emergency,51,100
+HOSP-01,Cardiology,68,58
+HOSP-01,General Medicine,56,84
+HOSP-01,Surgery,46,87
+HOSP-01,Respiratory,40,122
+HOSP-02,Emergency,73,76
+HOSP-02,Cardiology,41,77
+HOSP-02,General Medicine,62,67
+HOSP-02,Surgery,57,183
+HOSP-02,Respiratory,77,187
+HOSP-03,Emergency,80,47
+HOSP-03,Cardiology,85,158
+HOSP-03,General Medicine,61,86
+HOSP-03,Surgery,84,99
+HOSP-03,Respiratory,34,186
+HOSP-04,Emergency,92,125
+HOSP-04,Cardiology,23,89
+HOSP-04,General Medicine,100,181
+HOSP-04,Surgery,47,63
+HOSP-04,Respiratory,57,123
+HOSP-05,Emergency,58,168
+HOSP-05,Cardiology,33,46
+HOSP-05,General Medicine,51,163
+HOSP-05,Surgery,26,174
+HOSP-05,Respiratory,66,126
+HOSP-06,Emergency,89,98
+HOSP-06,Cardiology,37,139
+HOSP-06,General Medicine,91,140
+HOSP-06,Surgery,26,150
+HOSP-06,Respiratory,81,92
+HOSP-07,Emergency,41,103
+HOSP-07,Cardiology,91,165
+HOSP-07,General Medicine,22,191
+HOSP-07,Surgery,71,193
+HOSP-07,Respiratory,60,69
+HOSP-08,Emergency,38,94
+HOSP-08,Cardiology,32,177
+HOSP-08,General Medicine,88,162
+HOSP-08,Surgery,73,155
+HOSP-08,Respiratory,61,111
+HOSP-09,Emergency,37,68
+HOSP-09,Cardiology,89,124
+HOSP-09,General Medicine,59,133
+HOSP-09,Surgery,68,99
+HOSP-09,Respiratory,45,62
+HOSP-10,Emergency,37,167
+HOSP-10,Cardiology,91,199
+HOSP-10,General Medicine,30,152
+HOSP-10,Surgery,67,133
+HOSP-10,Respiratory,78,50
